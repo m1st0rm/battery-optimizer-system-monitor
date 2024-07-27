@@ -17,6 +17,6 @@ This repo contains a Windows application that can be used to optimize power cons
  ## Screenshots
  ![screenshot1](https://i.imgur.com/NjM9dE6.png)  
    
- ![screenshot2](https://imgur.com/a/git-11-YHH062d)  
+ ![screenshot2](https://imgur.com/e4kUqkx)  
 
- ![screenshot3](https://imgur.com/a/git-12-CxRZhJA)
+ ![screenshot3](https://imgur.com/2jgjX2I)
